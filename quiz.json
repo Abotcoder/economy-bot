@@ -1,0 +1,14 @@
+[
+	{
+		"question": "https://static.wikia.nocookie.net/naruto/images/0/09/Naruto_newshot.png",
+		"answers": ["Naruto", "Naruto Uzumaki"]
+	},
+	{
+		"question": "https://static.wikia.nocookie.net/naruto/images/2/21/Sasuke_Part_1.png",
+		"answers": ["Sasuke", "Sasuke Uchiha"]
+	},
+  {
+    "question": "https://static.wikia.nocookie.net/naruto/images/2/27/Kakashi_Hatake.png",
+    "answers": ["Kakashi", "Kakashi Hatake"]
+  }
+]
